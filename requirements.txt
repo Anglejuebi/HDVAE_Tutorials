@@ -1,0 +1,8 @@
+sphinx==6.2.1
+nbsphinx>=0.9.3
+sphinx_rtd_theme
+jupyter
+pandoc
+numpy
+pandas
+scanpy
