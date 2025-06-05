@@ -15,8 +15,6 @@ build:
 python:
   install:
     - requirements: requirements.txt
-  environment:
-    NBSphinx_EXECUTE: "never"
 
 # Build formats
 formats:
