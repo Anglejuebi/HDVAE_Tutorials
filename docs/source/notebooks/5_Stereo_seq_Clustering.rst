@@ -1,6 +1,6 @@
 .. _5_Stereo_seq_Clustering:
 
-stereo=Seq MOB Clustering Analysis
+stereo-Seq MOB Clustering Analysis
 ===============================================================================================================
 
 .. raw:: html
