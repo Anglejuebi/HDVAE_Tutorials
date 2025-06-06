@@ -8,16 +8,16 @@ HDVAE: identifying spatial domains in spatial transcriptomics data with Hierarch
    :maxdepth: 1
    :caption: Tutorials:
 
-   notebooks/Installation
-   notebooks/1_DLPFC_Clustering
-   notebooks/2_HBC_Clustering
-   notebooks/3_MouseBrain_Clustering
-   notebooks/4_Slide_seqV2_Clustering
-   notebooks/5_Stereo_seq_Clustering
-   notebooks/6_STARmap_Clustering
-   notebooks/7_mouse_breast_CA_Batch_effects
-   notebooks/8_mouse brain_Batch_effects
-   notebooks/9_mouse_brain_anterior_posterior
+   notebooks/Installation.html
+   notebooks/1_DLPFC_Clustering.html
+   notebooks/2_HBC_Clustering.html
+   notebooks/3_MouseBrain_Clustering.html
+   notebooks/4_Slide_seqV2_Clustering.html
+   notebooks/5_Stereo_seq_Clustering.html
+   notebooks/6_STARmap_Clustering.html
+   notebooks/7_mouse_breast_CA_Batch_effects.html
+   notebooks/8_mouse brain_Batch_effects.html
+   notebooks/9_mouse_brain_anterior_posterior.html
 
 .. image:: figure1.png
    :width: 1400
