@@ -5,4 +5,4 @@ Environment Setup and Configuration
 
 .. raw:: html
 
-   <iframe src="../notebooks/Installation.html" width="100%" height="800"></iframe>
+   <iframe src="Installation.html" width="100%" height="800"></iframe>
