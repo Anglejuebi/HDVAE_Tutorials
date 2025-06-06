@@ -1,6 +1,6 @@
 .. _4_Slide_seqV2_Clustering:
 
-Slide-seqV2 Dataset Clustering Analysis
+Slide-seqV2 MOB Clustering Analysis
 ======================================
 
 .. raw:: html

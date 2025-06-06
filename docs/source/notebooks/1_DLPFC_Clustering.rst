@@ -1,6 +1,6 @@
 .. _1_DLPFC_Clustering:
 
-DLPFC Dataset Clustering Analysis
+DLPFC Clustering Analysis
 =================================
 
 .. raw:: html

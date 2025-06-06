@@ -1,6 +1,6 @@
 .. _7_mouse_breast_CA_Batch_effects:
 
-Mouse Breast Cancer Dataset Batch Effect Correction
+Mouse Breast Cancer Batch Effect Correction
 ==================================================
 
 .. raw:: html

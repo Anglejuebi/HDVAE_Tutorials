@@ -1,6 +1,6 @@
 .. _5_Stereo_seq_Clustering:
 
-Stereo-seq Dataset Clustering Analysis
+Stereo-seq MOB Clustering Analysis
 =====================================
 
 .. raw:: html

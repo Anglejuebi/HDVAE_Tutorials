@@ -1,6 +1,6 @@
 .. _6_STARmap_Clustering:
 
-STARmap Dataset Clustering Analysis
+STARmap MVC Clustering Analysis
 ===================================
 
 .. raw:: html

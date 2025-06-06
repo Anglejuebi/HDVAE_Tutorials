@@ -1,6 +1,6 @@
 .. _9_mouse_brain_anterior_posterior:
 
-Mouse Brain Anterior-Posterior Analysis
+Mouse Brain Anterior-Posterior Batch Effect Correction
 =======================================
 
 .. raw:: html

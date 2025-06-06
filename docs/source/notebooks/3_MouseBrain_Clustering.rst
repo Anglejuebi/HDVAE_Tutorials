@@ -1,6 +1,6 @@
 .. _3_MouseBrain_Clustering:
 
-Mouse Brain Dataset Clustering Analysis
+Mouse Brain Clustering Analysis
 ======================================
 
 .. raw:: html

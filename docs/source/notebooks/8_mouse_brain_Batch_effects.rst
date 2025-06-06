@@ -1,6 +1,6 @@
 .. _8_mouse_brain_Batch_effects:
 
-Mouse Brain Dataset Batch Effect Correction
+Mouse Brain Batch Effect Correction
 ==========================================
 
 .. raw:: html

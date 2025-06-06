@@ -1,6 +1,6 @@
 .. _2_HBC_Clustering:
 
-HBC Dataset Clustering Analysis
+HBC Clustering Analysis
 ===============================
 
 .. raw:: html
